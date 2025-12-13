@@ -1,4 +1,4 @@
-# Teleloto bilietu braukyklė
+# Teleloto bilietų braukyklė
 Norintiems braukyti teleloto bilietus kompiuteryje.
 
 ## Funkcijos
