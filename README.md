@@ -15,4 +15,4 @@ npm run dev
 ```
 
 ## Nuotraukos
-<img width="1920" height="1080" alt="brave_w9vFo63Q5i" src="https://github.com/user-attachments/assets/027cfa77-c5fb-404d-90ee-4416dcfb6d22" />
+<img width="1280" height="640" alt="repository-open-graph-template" src="https://github.com/user-attachments/assets/83301a0e-7472-44d0-957e-a44f3fb13ce8" />
